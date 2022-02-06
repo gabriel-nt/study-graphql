@@ -1,7 +1,7 @@
 <h1 align="center">
     🚀 GraphQL
 </h1>
-<p align="center">Chat com websocket</p>
+<p align="center">Aplicação com GraphQL</p>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=node&message=14.15&color=green&logo=node.js" />
