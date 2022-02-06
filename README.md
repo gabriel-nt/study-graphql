@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=node&message=14.15&color=green&logo=node.js" />
-  <img src="https://img.shields.io/badge/last%20commit-october-orange" />
+  <img src="https://img.shields.io/badge/last%20commit-february-orange" />
   <img src="https://img.shields.io/badge/license-MIT-success"/>
 </p>
 
